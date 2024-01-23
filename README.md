@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Dev Ianbmg 😁
+## Bem-vindo(a) ao perfil do Dev Ianbmg 
+
 
  <div>
    <a href="https://github.com/Devianbmg">
