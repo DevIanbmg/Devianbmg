@@ -19,6 +19,6 @@
  
 <div> 
  
-  <a href="https://instagram.com/ianbmg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/%E3%85%A4-blue?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram&labelColor=blue&color=white&link=https%3A%2F%2Finstagram.com%2Fianbmg">
 
   <a href = "dev.ianbastos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
