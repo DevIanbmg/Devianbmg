@@ -15,7 +15,7 @@
  
 <br>
  
-### Para contato!
+### Entre em contato!
  
 <div> 
  
